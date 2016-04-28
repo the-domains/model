@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3465419
-  brandStrength: 0.2506055855192244
-  lightness: 0.8297491
+  saturation: 0.35925808479078114
+  brandStrength: 0.36920722341164947
+  lightness: 0.862866893177852
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.9660604
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  rhythmicContrast: 0.5677072557155043
 typography_spectrum: 0.1666667
-layout_spectrum: 0.4767025
+layout_spectrum: 0.5703938629012555
 name: model
