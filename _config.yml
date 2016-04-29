@@ -1,3 +1,7 @@
+name: model
+favicon: null
+layout_spectrum: 0.5703938629012555
+typography_spectrum: 0.1666667
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.35925808479078114
-  brandStrength: 0.36920722341164947
-  lightness: 0.862866893177852
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#faf8f2'
+    - '#fdfcf9'
+    - '#efece9'
+    - '#f4f2ee'
+    - '#ffffff'
+  brandStrength: 0.4375
+  lightness: 0.862866893177852
+  saturation: 0.35925808479078114
   rhythmicContrast: 0.5677072557155043
-typography_spectrum: 0.1666667
-layout_spectrum: 0.5703938629012555
-name: model
+purpose: []
