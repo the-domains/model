@@ -4,8 +4,15 @@
         <description><![CDATA[model]]></description>
         <link>https://thegrid.ai/model/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 01:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 19:39:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/model/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aa0e805-e191-45a6-af8a-33c41e5c870f.jpg">]]></description>
+            <link>http://www.shellyradley.com/fashion.html</link>
+            <guid isPermaLink="false">2c4bd408-30c4-41ad-b26c-b5badc95d79a</guid>
+            <pubDate>Fri, 29 Apr 2016 19:39:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.shellyradley.com/images/5418178210_2c66ff42c1_b.jpg">]]></description>
@@ -25,13 +32,6 @@
             <description><![CDATA[<img src="http://www.shellyradley.com/images/5418178156_a168d8ccb7_b.jpg">]]></description>
             <link>https://thegrid.ai/model/505b2805-f2fd-44c7-a8be-e29a51dadb7b/index.html</link>
             <guid isPermaLink="false">505b2805-f2fd-44c7-a8be-e29a51dadb7b</guid>
-            <pubDate>Tue, 26 Apr 2016 01:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aa0e805-e191-45a6-af8a-33c41e5c870f.jpg">]]></description>
-            <link>https://thegrid.ai/model/2c4bd408-30c4-41ad-b26c-b5badc95d79a/index.html</link>
-            <guid isPermaLink="false">2c4bd408-30c4-41ad-b26c-b5badc95d79a</guid>
             <pubDate>Tue, 26 Apr 2016 01:33:11 GMT</pubDate>
         </item>
     </channel>
