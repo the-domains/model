@@ -1,6 +1,6 @@
 name: model
 favicon: null
-layout_spectrum: 0.46802
+layout_spectrum: 0.5177917056716979
 typography_spectrum: 0.1666667
 collections:
   - index:
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#faf8f2'
-    - '#fdfcf9'
-    - '#efece9'
-    - '#f4f2ee'
-    - '#ffffff'
-  brandStrength: 0.4375
-  lightness: 0.862866893177852
-  saturation: 0.35925808479078114
-  rhythmicContrast: 0.5677072557155043
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  brandStrength: 0.6385775201488286
+  lightness: 0.47054432495497167
+  saturation: 0.9267524785827845
+  rhythmicContrast: 0.2976885645184666
 purpose: []
